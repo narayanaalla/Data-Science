@@ -1,0 +1,6 @@
+Reference for
+
+https://en.wikipedia.org/wiki/Predictive_Model_Markup_Language
+
+YouTube: Representing Predictive Solutions with PMML
+https://www.youtube.com/watch?v=QBpguVZRVPo
