@@ -12,3 +12,9 @@ These are the 10 most important machine learning algorithms that you need to mas
 • ARIMA - https://lnkd.in/grwBJNd
 
 Bonus: Neural networks - https://lnkd.in/gqJkD6Z
+
+Machine learning for Neuro-Imaging in Python
+https://nilearn.github.io/
+
+Python Data Science Handbook
+https://jakevdp.github.io/PythonDataScienceHandbook/
