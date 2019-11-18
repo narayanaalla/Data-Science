@@ -19,3 +19,10 @@ https://nilearn.github.io/
 Python Data Science Handbook
 https://jakevdp.github.io/PythonDataScienceHandbook/
 https://github.com/jakevdp/PythonDataScienceHandbook
+
+
+Machine Vision for Counting Fruit on Mango Tree Canopies
+https://pdfs.semanticscholar.org/88ed/7a23542e026db290541ca0071680ec1d2f37.pdf
+
+Detection of Mango Tree Varieties Based on Image Processing
+https://ejournal.upi.edu/index.php/ijost/article/view/3800
